@@ -37,8 +37,8 @@ Provides a clean dashboard with connection stats, live log window, and command s
 Clone the repo and build:
 
 ```bash
-git clone https://github.com/yourusername/COMListener.git
-cd COMListener
+git clone https://github.com/Audib-CoreTech/Audib-COM-Listener-v2.8.git
+cd Audib-COM-Listener-v2.8
 dotnet build -c Release
 
 standalone .exe:
